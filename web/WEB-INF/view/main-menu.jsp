@@ -16,6 +16,8 @@
 <h2>Some text </h2>
 <a href="hello/showForm">Hello world form</a>
 <br>
-<a href="/student/showForm">Student form</a>
+<a href="student/showForm">Student form</a>
+<br>
+<a href="/customer/showForm">Customer form </a>
 </body>
 </html>
